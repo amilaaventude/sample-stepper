@@ -1,0 +1,12 @@
+.buttonsInline {
+    margin-top: 2rem;
+    text-align: center;
+
+    .ant-btn {
+        margin-right: 10px;
+    }
+
+    .ant-row.ant-form-item{
+        margin-bottom: 0;
+    }
+}
